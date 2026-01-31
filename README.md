@@ -1,4 +1,4 @@
-👋 Hi there, I'm Shuyue (Emily) Ren!
+## 👋 Hi there, I'm Shuyue (Emily) Ren!
 
 I'm a Junior at Barnard College majoring in CS, I'm interested in data, machine learning, and am passionate about solving real world problems!
 
