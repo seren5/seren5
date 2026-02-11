@@ -25,6 +25,12 @@ Tools: Jupyter Notebooks, GSuites, Excel (Microsoft Suites), Git, GitHub
 
 ---
 
+## Projects
+
+- [https://github.com/Snowflake-1A-BreakThroughTech/AI-Studio-Project](https://github.com/Snowflake-1A-BreakThroughTech/AI-Studio-Project)
+
+---
+
 ## 📫 Let's Connect
 
 - 📧 Email: [shuyueeren@gmail.com](mailto:shuyueeren@gmail.com)  
