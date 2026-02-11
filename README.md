@@ -25,7 +25,7 @@ Tools: Jupyter Notebooks, GSuites, Excel (Microsoft Suites), Git, GitHub
 
 ---
 
-## Projects
+## 🗂️ Projects
 
 - [https://github.com/Snowflake-1A-BreakThroughTech/AI-Studio-Project](https://github.com/Snowflake-1A-BreakThroughTech/AI-Studio-Project)
 
